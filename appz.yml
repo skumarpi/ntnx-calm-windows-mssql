@@ -24,7 +24,7 @@ properties:
 APPZ_PLAYLIST: nutanix_calm,dotnet
 
 # Nutanix AHV Environment properties
-  NUTANIX_PRISM_ADDRESS: c0a83da5.lowtouch.cloud
+  NUTANIX_PRISM_ADDRESS: "c0a83da5.lowtouch.cloud"
   NUTANIX_PRISM_PORT: 9440
   NUTANIX_PRISM_CLUSTER_NAME: CLOUDCONTROL
   NUTANIX_VM_SUBNET_NAME: DefaultNet
@@ -71,7 +71,7 @@ APPZ_PLAYLIST: nutanix_calm,dotnet
   POSTGRESQL_CONNECTIONDB: postgres
 
 ## Nutanix CALM DSL Details
-  CALM_DSL_PC_IP: c0a83da5.lowtouch.cloud
+  CALM_DSL_PC_IP: "c0a83da5.lowtouch.cloud"
   CALM_DSL_PC_PORT: 9440
   CALM_DSL_PC_USERNAME: admin
   CALM_DSL_PC_PASSWORD:
