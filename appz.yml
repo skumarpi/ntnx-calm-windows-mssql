@@ -18,7 +18,7 @@ properties:
 # AppZ Ansible Playbook
   # Available Playlists : 
   # nutanix_vm,centos_base,tomcat,tomcat_deploy
-  # nutanix_vm, postgres
+  # nutanix_vm,postgres
   # nutanix_calm,dotnet
   #
   APPZ_PLAYLIST: nutanix_calm,dotnet
