@@ -71,7 +71,7 @@ APPZ_PLAYLIST: nutanix_calm,dotnet
   POSTGRESQL_CONNECTIONDB: postgres
 
 ## Nutanix CALM DSL Details
-  CALM_DSL_PC_IP: 192.168.61.165
+  CALM_DSL_PC_IP: c0a83da5.lowtouch.cloud
   CALM_DSL_PC_PORT: 9440
   CALM_DSL_PC_USERNAME: admin
   CALM_DSL_PC_PASSWORD:
