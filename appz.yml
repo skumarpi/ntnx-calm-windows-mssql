@@ -94,4 +94,4 @@ properties:
 # common properties  
   MOD_CLUSTER: modcluster-1-3:6666
   APPZ_TEARDOWN_TOKEN: 20200721-1655
-  revision : 20
+  revision : 21
