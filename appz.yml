@@ -22,7 +22,7 @@ properties:
   # nutanix_calm,dotnet,iis
   # nutanix_calm,mssql
   
-  APPZ_PLAYLIST: nutanix_calm,dotnet,iis
+  APPZ_PLAYLIST: nutanix_calm,mssql
 
 # Nutanix AHV Environment properties
   NUTANIX_PRISM_ADDRESS: "c0a83da5.lowtouch.cloud"
@@ -68,6 +68,7 @@ properties:
 
 ##.Net Details
   DOTNET_HOSTNAME: dotnet
+  MSSQL_HOSTNAME: dotnet
   POSTGRESQL_CONNECTUSER: postgres
   POSTGRESQL_CONNECTIONDB: postgres
 
